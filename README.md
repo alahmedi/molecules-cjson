@@ -1,5 +1,6 @@
-# molecules-cjson
+# Molecules CJSON
 This is a collection of the molecules I've modeled in AvoGrado 2.
+These CJSONS are using OpenChemistry's [chemicaljson schema.](https://github.com/OpenChemistry/chemicaljson)
 
 ## Current molecules built:
 * Water (H2O)
