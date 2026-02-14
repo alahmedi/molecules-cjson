@@ -7,8 +7,21 @@ This is a collection of the molecules I've modeled in AvoGrado 2.
 These CJSONS are using OpenChemistry's [chemicaljson schema.](https://github.com/OpenChemistry/chemicaljson)
 
 ## Current molecules built:
-* Water (H2O)
+### Organics
 * Methane (CH4)
-* Ammonia (NH3)
 * Thioketene (C2H2S)
 * Ethylene Oxide (C2H4O)
+### Inorganics
+* Water (H2O)
+* Ammonia (NH3)
+
+## License
+
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+**Under this license, you are free to:**
+* **Share** — Copy and redistribute the material in any medium or format.
+* **Adapt** — Remix, transform, and build upon the material for any purpose, even commercially.
+
+**As long as you give appropriate credit to:**
+> **Alahmedi Software**
