@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/cjson.png" width="200" alt="Molecules CJSON logo">
+  <img src="media/cjson.png" width="400" alt="Molecules CJSON logo">
 </p>
 
 # Molecules CJSON
