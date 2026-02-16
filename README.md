@@ -3,12 +3,14 @@
 </p>
 
 # Molecules CJSON
-This is a collection of the molecules I've modeled in AvoGrado 2.
+This is a collection of the molecules I've modeled in AvoGadro 2.
 These CJSONS are using OpenChemistry's [chemicaljson schema.](https://github.com/OpenChemistry/chemicaljson)
+Most of these either use the MMFF94 or the GAFF forcefield.
 
 ## Current molecules built:
 ### Organics
 * Methane (CH<sub>4</sub>)
+* Benzene (C<sub>6</sub>H<sub>6</sub>)
 * Thioketene (C<sub>2</sub>H<sub>2</sub>S)
 * Ethylene Oxide (C<sub>2</sub>H<sub>4</sub>O)
 ### Inorganics
