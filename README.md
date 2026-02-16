@@ -12,8 +12,9 @@ These CJSONS are using OpenChemistry's [chemicaljson schema.](https://github.com
 * Thioketene (C2H2S)
 * Ethylene Oxide (C2H4O)
 ### Inorganics
-* Water (H2O)
-* Ammonia (NH3)
+* Water (H<sub>2</sub>O)
+* Ammonia (NH<sub>3</sub>)
+* Hydrogen Peroxide (H<sub>2</sub>O<sub>2</sub>)
 
 ## License
 
