@@ -8,9 +8,9 @@ These CJSONS are using OpenChemistry's [chemicaljson schema.](https://github.com
 
 ## Current molecules built:
 ### Organics
-* Methane (CH4)
-* Thioketene (C2H2S)
-* Ethylene Oxide (C2H4O)
+* Methane (CH<sub>4</sub>)
+* Thioketene (C<sub>2</sub>H<sub>2</sub>S)
+* Ethylene Oxide (C<sub>2</sub>H<sub>4</sub>O)
 ### Inorganics
 * Water (H<sub>2</sub>O)
 * Ammonia (NH<sub>3</sub>)
