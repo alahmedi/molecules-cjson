@@ -8,15 +8,18 @@ These CJSONS are using OpenChemistry's [chemicaljson schema.](https://github.com
 Most of these either use the MMFF94 or the GAFF forcefield.
 
 ## Current molecules built:
-### Organics
+### Organics (organics/)
+* Carbon Dioxide (CO<sub>2</sub>)
 * Methane (CH<sub>4</sub>)
 * Benzene (C<sub>6</sub>H<sub>6</sub>)
 * Thioketene (C<sub>2</sub>H<sub>2</sub>S)
 * Ethylene Oxide (C<sub>2</sub>H<sub>4</sub>O)
-### Inorganics
+### Inorganics (inorganics/)
+* Oxygen (O<sub>2</sub>)
 * Water (H<sub>2</sub>O)
 * Ammonia (NH<sub>3</sub>)
 * Hydrogen Peroxide (H<sub>2</sub>O<sub>2</sub>)
+* Sulfur Dioxide (SO<sub>2</sub>)
 
 ## License
 
